@@ -1,0 +1,172 @@
+/**
+ * @copyright	Copyright (c) 2013 Skyline Technology Ltd (http://extstore.com). All rights reserved.
+ * @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ */
+
+.xcopyright {
+	clear: both;
+	color: #666666;
+	margin-bottom: 0;
+	padding-bottom: 10px;
+	padding-top: 20px;
+	text-align: center;
+	text-shadow: 0 1px 1px #DDDDDD;
+	font-size: 12px;
+}
+
+.xtitle {
+	background: #AAA;
+	color: #FFF;
+	text-shadow: 0 1px 1px #888888;
+	font-weight: bold;
+	border-radius: 3px;
+	padding: 5px;
+}
+
+.table-list tbody tr {
+	height: 39px;
+}
+
+#cpanel {
+    clear: both;
+    min-height: 150px;
+    overflow: hidden;
+    padding-top: 12px;
+}
+
+#cpanel a {
+    display: block;
+    float: left;
+    height: 100px;
+    padding: 15px;
+    text-align: center;
+    width: 80px;
+}
+
+#sidebar #submenu a[href*="com_advportfoliopro&view=dashboard"]:before {
+    content: "! ";
+    font-family: "IcoMoon";
+}
+
+#sidebar #submenu a[href*="com_advportfoliopro&view=projects"]:before {
+    content: "X ";
+    font-family: "IcoMoon";
+}
+
+#sidebar #submenu a[href*="com_categories"]:before {
+    content: "- ";
+    font-family: "IcoMoon";
+}
+
+#ftp-form ul {
+	padding-top: 10px;
+}
+
+#ftp-form ul label {
+	min-width: 100px;
+}
+
+#upload-form input {
+	float: none;
+}
+
+a.download-button,
+a.delete-button {
+	display: block;
+	text-indent: -999em;
+	background: url(../images/download.png) no-repeat center;
+	line-height: 16px;
+}
+
+a.delete-button {
+	background-image: url(../images/delete.png);
+}
+
+
+div.imageborder {
+	height: 72px;
+	vertical-align: middle;
+	width: 88px;
+	overflow: hidden;
+}
+
+div.imagecontrol {
+	text-align: center;
+	height: 20px;
+	line-height: 20px;
+	background: #f9fcf9;
+	border-top: 1px solid #ddd;
+	font-size: 12px;
+}
+
+div.imagecontrol .delete-button {
+	float: right;
+	width: 16px;
+	height: 16px;
+	margin-right: 5px;
+	margin-top: 2px;
+}
+
+div.imageinfo {
+	background: #f9f9f9;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	width: 88px;
+	height: 15px;
+	vertical-align: middle;
+	text-align: center;
+	overflow: hidden;
+	clear: both;
+}
+
+.image-preview {
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.images-container {
+	margin: 0;
+}
+
+.images-container li {
+	list-style: none;
+	position: relative;
+	margin-bottom: 30px;
+	display: block;
+	float: left;
+	width: 300px;
+}
+
+.images-container .image-sortable {
+	position: absolute;
+	width: 14px;
+	top: 0;
+	bottom: 0;
+	background-color: #999;
+	background-image: linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+	background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+	background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+	background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+	background-image: -ms-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+	border-radius: 10px;
+	cursor: move;
+}
+
+.images-container .image-sortable:hover {
+	background-color: #33bbde;
+}
+
+.images-container .image-container {
+	margin-left: 22px;
+}
+
+.image-title {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.dropzone .upload-options {
+	position: absolute;
+	right: 10px;
+	bottom: 3px;
+}

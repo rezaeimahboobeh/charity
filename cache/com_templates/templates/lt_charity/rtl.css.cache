@@ -1,0 +1,115 @@
+a:4:{s:4:"root";s:54:"C:\wamp\www\charity\templates/lt_charity/less/rtl.less";s:8:"compiled";s:2612:"@font-face {
+  font-family: 'p30';
+  font-style: bold;
+  font-weight: 700;
+  src: url(../pfonts/p30.eot);
+  src: url(../pfonts/p30.eot?#iefix) format('embedded-opentype'), url(../pfonts/p30.woff2) format('woff2'), url(../pfonts/p30.woff) format('woff'), url(../pfonts/p30.ttf) format('truetype');
+}
+body.rtl p,
+body.rtl h1,
+body.rtl h2,
+body.rtl h3,
+body.rtl h4,
+body.rtl h5,
+body.rtl h6,
+body.rtl a,
+body.rtl ul,
+body.rtl tr,
+body.rtl td,
+body.rtl input,
+body.rtl .tp-caption {
+  font-family: "p30" !important;
+}
+body.rtl .sp-megamenu-parent .sp-dropdown.sp-dropdown-main.sp-menu-right,
+body.rtl .sp-megamenu-parent .sp-dropdown.sp-dropdown-main.sp-menu-full {
+  right: 0 !important;
+  left: auto !important;
+}
+body.rtl #sp-top-bar .sp-module {
+  margin: 0 20px 0 0;
+}
+body.rtl .sp-contact-info {
+  float: left;
+}
+body.rtl .sp-module-content .mod-languages ul.lang-inline li {
+  margin: 0 0 0 5px;
+}
+body.rtl #offcanvas-toggler {
+  float: left;
+}
+body.rtl #offcanvas-toggler >i {
+  padding: 0 10px 0 0;
+}
+body.rtl .close-offcanvas {
+  right: auto;
+  left: 10px;
+}
+body.rtl .offcanvas-menu {
+  -webkit-transition: opacity 400ms cubic-bezier(0.7,0,0.3,1), left 400ms cubic-bezier(0.7,0,0.3,1);
+  transition: opacity 400ms cubic-bezier(0.7,0,0.3,1), left 400ms cubic-bezier(0.7,0,0.3,1);
+}
+body.rtl .body-innerwrapper:after {
+  left: 0;
+}
+body.rtl .offcanvas-menu {
+  left: -280px;
+}
+body.rtl.offcanvas .offcanvas-menu {
+  left: 0;
+}
+body.rtl .sp-megamenu-parent {
+  float: left;
+}
+body.rtl .sp-megamenu-parent >li.sp-has-child>a:after {
+  display: none;
+}
+body.rtl .sp-megamenu-parent >li.sp-has-child>a:before {
+  content: " \f107";
+  font-family: FontAwesome;
+  margin-right: 5px;
+}
+body.rtl .sp-megamenu-parent .sp-dropdown .sp-dropdown-items .sp-has-child>a:after {
+  float: left;
+  content: " \f104";
+}
+body.rtl .sp-module ul >li >a:before {
+  margin-right: 0;
+  margin-left: 8px;
+  content: "\f104";
+  float: right;
+}
+body.rtl .entry-header.has-post-format {
+  margin-left: 0;
+  margin-right: 68px;
+}
+body.rtl .post-format {
+  left: auto;
+  right: -68px;
+}
+body.rtl .article-info >dt >i,
+body.rtl .article-info >dd >i {
+  margin-right: 0;
+  margin-left: 3px;
+}
+body.rtl .entry-link:before {
+  top: auto;
+  left: auto;
+  right: -60px;
+  transform: rotate(-90deg);
+}
+body.rtl .entry-quote:before {
+  left: auto;
+  transform: rotate(-15deg);
+  top: auto;
+  right: -40px;
+}
+body.rtl .categories-list .page-header a.pull-right {
+  float: left !important;
+}
+body.rtl .newsfeed-category .category li .pull-left {
+  float: right !important;
+}
+body.rtl .search .btn-toolbar .pull-left {
+  float: right !important;
+}
+";s:5:"files";a:15:{s:67:"C:\wamp\www\charity\templates\lt_charity\less\legacy\bootstrap.less";i:1469599548;s:67:"C:\wamp\www\charity\templates\lt_charity\less\legacy\variables.less";i:1469599548;s:64:"C:\wamp\www\charity\templates\lt_charity\less\legacy\mixins.less";i:1469599548;s:62:"C:\wamp\www\charity\templates\lt_charity\less\legacy\grid.less";i:1469599548;s:63:"C:\wamp\www\charity\templates\lt_charity\less\legacy\forms.less";i:1469599548;s:63:"C:\wamp\www\charity\templates\lt_charity\less\legacy\wells.less";i:1469599548;s:67:"C:\wamp\www\charity\templates\lt_charity\less\legacy\accordion.less";i:1469599548;s:85:"C:\wamp\www\charity\templates\lt_charity\less\legacy\responsive-767px-max.joomla.less";i:1469599548;s:57:"C:\wamp\www\charity\templates\lt_charity\less\master.less";i:1469599548;s:60:"C:\wamp\www\charity\templates\lt_charity\less\variables.less";i:1469599548;s:57:"C:\wamp\www\charity\templates\lt_charity\less\mixins.less";i:1469599548;s:58:"C:\wamp\www\charity\templates\lt_charity\less\icomoon.less";i:1469599548;s:55:"C:\wamp\www\charity\templates\lt_charity\less\menu.less";i:1469599548;s:56:"C:\wamp\www\charity\templates\lt_charity\less\theme.less";i:1469599548;s:54:"C:\wamp\www\charity\templates\lt_charity\less\rtl.less";i:1469623832;}s:7:"updated";i:1483173530;}

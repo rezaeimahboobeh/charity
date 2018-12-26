@@ -1,0 +1,24 @@
+.tp-caption a {
+color:#fff;
+border: 1px solid #fff;
+font-size: 16px;
+background: none!important;
+padding: 15px 50px;
+font-weight: 400!important;
+text-shadow: none;
+box-shadow: none!important;
+text-transform: uppercase;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#fff!important;
+text-shadow: none!important;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}

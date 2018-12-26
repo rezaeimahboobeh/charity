@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'p30';
+  font-style: bold;
+  font-weight: 700;
+  src: url(p30.eot);
+  src: url(p30.eot?#iefix) format('embedded-opentype'),
+       url(p30.woff2) format('woff2'),
+       url(p30.woff) format('woff'),
+       url(p30.ttf) format('truetype');
+}
+
+p,h1,h2,h3,h4,h5,h6,a,ul,div,tr,td,input,.menu-title,.sansFont,.module h3.modtitle,.wellcomesj h1 span,.wellcomesj a.readmore.gray{
+font-family: "p30" !important;
+}
